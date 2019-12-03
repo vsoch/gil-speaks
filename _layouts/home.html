@@ -43,8 +43,8 @@ layout: default
   </div>
 
   <div class="post-meta">
-    {% if page.author %}
-      <div itemprop="author">- {{ page.author }}</div>
+    {% if post.author %}
+      <div itemprop="author">{{ post.author }}</div>
     {% endif %}
 
     <time class="post-date dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }} <a href="{{ site.baseurl }}{{ post.url }}">>></a></time>
@@ -58,13 +58,13 @@ layout: default
 
       <div class="post-pagination">
         {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn">&lang;&nbsp;Older</a>
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn"><<Older</a>
         {% else %}
           <span>&nbsp;</span>
         {% endif %}
         <span class="pagination-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
         {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">Newer&nbsp;&rang;</a>
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">Newer >></a>
         {% else %}
           <span>&nbsp;</span>
         {% endif %}
