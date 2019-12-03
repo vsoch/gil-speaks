@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aging"
-author: "@vsoch"
+author: "@tabakg"
 categories: wisdom
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Communication"
-author: "@vsoch"
+author: "@tabakg"
 categories: wisdom
 ---
 

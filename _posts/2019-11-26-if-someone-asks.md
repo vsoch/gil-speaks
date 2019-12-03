@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Where I Am"
-author: "@vsoch"
+author: "@tabakg"
 categories: wisdom
 ---
 

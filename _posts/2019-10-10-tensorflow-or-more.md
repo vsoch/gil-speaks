@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tensorflow?"
-author: "@vsoch"
+author: "@tabakg"
 categories: wisdom
 ---
 

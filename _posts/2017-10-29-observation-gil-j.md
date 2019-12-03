@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Observation Gil J"
-author: "@vsoch"
+author: "@tabakg"
 categories: [wisdom, fishproblems]
 ---
 

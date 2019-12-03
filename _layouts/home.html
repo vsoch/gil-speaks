@@ -43,6 +43,10 @@ layout: default
   </div>
 
   <div class="post-meta">
+    {% if page.author %}
+      <div itemprop="author">- {{ page.author }}</div>
+    {% endif %}
+
     <time class="post-date dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }} <a href="{{ site.baseurl }}{{ post.url }}">>></a></time>
   </div>
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Culinary Relations"
-author: "@vsoch"
+author: "@tabakg"
 categories: wisdom
 ---
 

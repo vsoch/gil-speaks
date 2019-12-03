@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Math"
-author: "@vsoch"
+author: "@tabakg"
 categories: wisdom
 ---
 

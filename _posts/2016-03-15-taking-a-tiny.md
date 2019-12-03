@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "One Way Nostril"
-author: "@vsoch"
+author: "@tabakg"
 categories: wisdom
 ---
 

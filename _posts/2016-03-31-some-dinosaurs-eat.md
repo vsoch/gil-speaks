@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some Dinosaurs Eat"
-author: "@vsoch"
+author: "@tabakg"
 categories: wisdom
 ---
 

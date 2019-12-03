@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Animal Floor Cleaning"
-author: "@vsoch"
+author: "@tabakg"
 categories: wisdom
 ---
 

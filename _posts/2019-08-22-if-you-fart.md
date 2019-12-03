@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Screenshot"
-author: "@vsoch"
+author: "@tabakg"
 categories: wisdom
 ---
 

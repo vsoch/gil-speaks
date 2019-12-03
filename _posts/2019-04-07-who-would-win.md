@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Who Would Win?"
-author: "@vsoch"
+author: "@tabakg"
 categories: wisdom
 ---
 

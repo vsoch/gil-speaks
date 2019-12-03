@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Farm Animals"
-author: "@vsoch"
+author: "@tabakg"
 categories: wisdom
 ---
 
