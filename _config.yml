@@ -1,0 +1,22 @@
+# Gil Speaks
+
+title: Gil Speaks
+description: >- 
+  What does Gil speak?
+baseurl: "/gil-speaks" # the subpath of your site, e.g. /blog
+url: "https://vsoch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+icon: /assets/images/icon-512.png
+twitter_username: vsoch
+github_username:  vsoch
+
+# Build settings
+permalink: /:year/:title/
+markdown: kramdown
+
+exclude: [vendor, Gemfile, Gemfile.lock]
+
+plugins:
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page/:num/"
